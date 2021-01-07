@@ -1,0 +1,1 @@
+The output i.e the mail of accuracy will come at your registered mail when the desired accuracy of your model has been achieved :)
