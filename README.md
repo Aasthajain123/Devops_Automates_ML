@@ -6,19 +6,14 @@ Machine Learning | Developer Operations | Docker | Jenkins | Github |
  | :---: | :---: | :---: | :---: | :---: | 
 
 
-# Screenshots
-<pre>
-<img src="001.jpg" width="300">
-</pre>
+# Images
+
 
 Why 50% of the Machine Learning Projects Are Never Implemented ?
 Machine learning operations (MLOps) is the use of machine learning models by development/operations (DevOps) teams. MLOps seeks to add discipline to the development and deployment of machine learning models by defining processes to make ML development more reliable and productive.In the past years many organisations invested in AI/Machine Learning experiments, most of them were not deployed to production.To push a successful AI/ML experiment to production the organisation need to understand about MLOps.
 ## Create a container image that has Python3, tensorflow, Keras, Pandas, Sci-kit Learn and NumPy installed using Dockerfile.
 
-# Screenshots
-<pre>
-<img src="002.jpg" width="250"> <img src="003.jpg" width="250"> <img src="004.jpg" width="250"> <img src="005.jpg" width="250">
-</pre>
+
 
 ## When we launch this image, It should automatically start training the model in the container.
 
